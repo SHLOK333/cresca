@@ -1,0 +1,1 @@
+// This file contains integration tests for the trading bot, ensuring that different components work together as expected.

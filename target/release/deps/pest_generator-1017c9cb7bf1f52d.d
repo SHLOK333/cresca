@@ -1,0 +1,11 @@
+E:\CTRLMOVE\aptos-hft-bot\target\release\deps\pest_generator-1017c9cb7bf1f52d.d: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\macros.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\docs.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\generator.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\parse_derive.rs
+
+E:\CTRLMOVE\aptos-hft-bot\target\release\deps\libpest_generator-1017c9cb7bf1f52d.rlib: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\macros.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\docs.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\generator.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\parse_derive.rs
+
+E:\CTRLMOVE\aptos-hft-bot\target\release\deps\libpest_generator-1017c9cb7bf1f52d.rmeta: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\macros.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\docs.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\generator.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\parse_derive.rs
+
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\lib.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\macros.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\docs.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\generator.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.8.2\src\parse_derive.rs:

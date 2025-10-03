@@ -1,0 +1,30 @@
+[aptos]
+node_url = "https://fullnode.testnet.aptoslabs.com/v1"
+private_key = "your_private_key_here"
+account_address = "your_account_address_here"
+chain_id = 2
+gas_price = 100
+max_gas_amount = 10000
+
+[trading]
+base_currency = "TUSDC"
+quote_currency = "APT"
+min_order_size = "1.0"
+max_order_size = "1000.0"
+tick_interval_ms = 100
+strategy_type = "market_making"
+
+[market_data]
+sources = ["aptos_dex"]
+rest_api_url = "https://api.example.com/v1"
+update_interval_ms = 50
+
+[risk]
+max_position_size = "10000.0"
+max_daily_loss = "1000.0"
+stop_loss_threshold = "0.02"
+take_profit_threshold = "0.01"
+
+[logging]
+level = "info"
+file_path = "./logs/trading.log"
